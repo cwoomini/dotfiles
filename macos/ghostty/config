@@ -1,0 +1,7 @@
+background-opacity = 0.75
+background-blur = true
+copy-on-select = clipboard
+theme = catppuccin-mocha
+window-width = 88
+window-height = 25
+keybind = super+t=new_window

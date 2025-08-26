@@ -1,0 +1,39 @@
+{
+  "agent": {
+    "use_modifier_to_send": true,
+    "default_model": {
+      "provider": "google",
+      "model": "gemini-2.5-pro"
+    }
+  },
+  "autosave": {
+      "after_delay": {
+          "milliseconds": 500
+      }
+  },
+  "buffer_font_family": "Monaspace Neon",
+  "buffer_font_size": 13,
+  "chat_panel": {
+    "button": "never"
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "format_on_save": "off",
+  "icon_theme": "Catppuccin Mocha",
+  "show_edit_predictions": false,
+  "show_whitespaces": "none",
+  "telemetry": {
+    "metrics": false,
+    "diagnostics": false
+  },
+  "theme": "Gipresso Gyul",
+  "ui_font_size": 13,
+  "vim_mode": true,
+  "vim": {
+    "toggle_relative_line_numbers": true
+  }
+}
